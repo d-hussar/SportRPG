@@ -1,0 +1,18 @@
+{
+  "name": "sport-rpg",
+  "version": "0.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "author": "Dmitry Gusarov <dmitry.hussar@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-hussar/SportRPG.git"
+  },
+  "homepage": "https://github.com/d-hussar/SportRPG#readme",
+  "bugs": {
+    "url": "https://github.com/d-hussar/SportRPG/issues"
+  }
+}
